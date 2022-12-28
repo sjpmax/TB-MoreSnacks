@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3516326340
+CRC: 1097570136
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aa0098b5703c998a98d621ad353fd89f
+    Hash: 6427d7fce46f00b27786f38733a23c1a
   TypeTreeHash:
     serializedVersion: 2
     Hash: c21d61fe394c58399df3c6fb5c7c99b3
@@ -15,5 +15,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/BlueberryPieIcon.png
+- Assets/MoreSnacks/carrotCakeIcon.png
+- Assets/MoreSnacks/BlueberryPieIcon.png
 Dependencies: []

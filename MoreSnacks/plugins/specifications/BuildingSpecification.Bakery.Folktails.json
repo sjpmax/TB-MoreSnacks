@@ -1,6 +1,7 @@
 {
     "BuildingId": "Bakery.Folktails",
     "RecipeIds": [
-        "BlueberryPie"
+        "BlueberryPie",
+        "CarrotCake"
     ]
 }

@@ -4,3 +4,6 @@ SJPMax.Good.Berries.PluralDisplayName,Berries
 SJPMax.Good.BlueberryPie.DisplayName,Blueberry Pie
 SJPMax.Good.BlueberryPie.PluralDisplayName,Blueberry Pies
 SJPMax.Manufactory.Recipe.BlueberryPie,Blueberry Pie
+SJPMax.Good.CarrotCake.DisplayName,Carrot Cake
+SJPMax.Good.CarrotCake.PluralDisplayName,Carrot Cake
+SJPMax.Manufactory.Recipe.CarrotCake,Carrot Cake

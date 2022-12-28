@@ -1,0 +1,28 @@
+{
+    "Id": "CarrotCake",
+    "BackwardCompatibleIds": [
+    ],
+    "DisplayNameLocKey": "SJPMax.Good.CarrotCake.DisplayName",
+    "PluralDisplayNameLocKey": "SJPMax.Good.CarrotCake.PluralDisplayName",
+    "ConsumptionEffects": [
+        {
+            "NeedId": "Hunger",
+            "Points": 0.3
+        },
+        {
+            "NeedId": "CarrotCake",
+            "Points": 0.21
+        }
+    ],
+    "GoodType": "Box",
+    "StockpileVisualization": "Box",
+    "VisibleContainer": {
+        "Value": "Box"
+    },
+    "ContainerColor": "#964a0c",
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "GoodGroupId": "Food",
+    "Icon": "SJPMax.Timberborn.MoreSnacks/MoreSnacks/CarrotCakeIcon",
+    "RequiredFeatureToggle": ""
+}

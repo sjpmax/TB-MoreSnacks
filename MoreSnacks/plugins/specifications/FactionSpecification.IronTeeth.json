@@ -1,9 +1,11 @@
 {
     "Goods": [
-        "BlueberryPie"
+        "BlueberryPie",
+        "CarrotCake"
     ],
     "Needs": [
         "Berries",
-        "BlueberryPie"
+        "BlueberryPie",
+        "CarrotCake"
     ]
 }

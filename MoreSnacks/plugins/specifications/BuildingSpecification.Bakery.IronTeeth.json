@@ -1,6 +1,7 @@
 {
     "BuildingId": "Bakery.IronTeeth",
     "RecipeIds": [
-        "BlueberryPie"
+        "BlueberryPie",
+        "CarrotCake"
     ]
 }
