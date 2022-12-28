@@ -1,0 +1,6 @@
+ID,Text,Comment
+SJPMax.Good.Berries.DisplayName,Beeren
+SJPMax.Good.Berries.PluralDisplayName,Beeren
+SJPMax.Good.BlueberryPie.DisplayName,Heidelbeerkuchen
+SJPMax.Good.BlueberryPie.PluralDisplayName,Blaubeerkuchen
+SJPMax.Manufactory.Recipe.BlueberryPie,Heidelbeerkuchen

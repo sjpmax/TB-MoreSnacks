@@ -1,0 +1,28 @@
+{
+    "Id": "BlueberryPie",
+    "BackwardCompatibleIds": [
+    ],
+    "DisplayNameLocKey": "SJPMax.Good.BlueberryPie.DisplayName",
+    "PluralDisplayNameLocKey": "SJPMax.Good.BlueberryPie.PluralDisplayName",
+    "ConsumptionEffects": [
+        {
+            "NeedId": "Hunger",
+            "Points": 0.3
+        },
+        {
+            "NeedId": "BlueberryPie",
+            "Points": 0.21
+        }
+    ],
+    "GoodType": "Box",
+    "StockpileVisualization": "Box",
+    "VisibleContainer": {
+        "Value": "Box"
+    },
+    "ContainerColor": "#3d1480",
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "GoodGroupId": "Food",
+    "Icon": "SJPMax.Timberborn.MoreSnacks/MoreSnacks/BlueberryPieIcon",
+    "RequiredFeatureToggle": ""
+}

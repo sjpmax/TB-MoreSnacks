@@ -1,0 +1,34 @@
+{
+    "Id": "BlueberryPie",
+    "DisplayLocKey": "SJPMax.Manufactory.Recipe.BlueberryPie",
+    "CycleDurationInHours": 0.2,
+    "CyclesCapacity": 40,
+    "Ingredients": [
+        {
+            "Good": {
+                "Id": "Berries"
+            },
+            "Amount": 1
+        },
+        {
+            "Good": {
+                "Id": "WheatFlour"
+            },
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Good": {
+                "Id": "BlueberryPie"
+            },
+            "Amount": 3
+        }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": {
+        "Id": "Log"
+    },
+    "CyclesFuelLasts": 10,
+    "FuelCapacity": 5
+}

@@ -1,0 +1,25 @@
+{
+    "Id": "Berries",
+    "BackwardCompatibleIds": [
+    ],
+    "Order": 52,
+    "NeedGroupId": "Nutrition",
+    "CharacterType": "Beaver",
+    "DisplayNameLocKey": "Good.Berries.DisplayName",
+    "PluralDisplayNameLocKey": "Good.Berries.PluralDisplayName",
+    "StartingValue": 0.0,
+    "MinimumValue": 0.0,
+    "MaximumValue": 1.0,
+    "DailyDelta": -0.05,
+    "ImportanceMultiplier": 1.0,
+    "CriticalNeedType": {
+        "Value": "None"
+    },
+    "CriticalSpriteName": "",
+    "CriticalDescriptionLocKey": "",
+    "DeathOnMinValue": false,
+    "DeathMessageLocKey": "",
+    "Effectiveness": 1.0,
+    "Wastable": true,
+    "FavorableWellbeing": 2
+}

@@ -1,0 +1,9 @@
+{
+    "Goods": [
+        "BlueberryPie"
+    ],
+    "Needs": [
+        "Berries",
+        "BlueberryPie"
+    ]
+}

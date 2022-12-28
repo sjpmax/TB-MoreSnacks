@@ -1,0 +1,6 @@
+ID,Text,Comment
+SJPMax.Good.Berries.DisplayName,Berries
+SJPMax.Good.Berries.PluralDisplayName,Berries
+SJPMax.Good.BlueberryPie.DisplayName,Blueberry Pie
+SJPMax.Good.BlueberryPie.PluralDisplayName,Blueberry Pies
+SJPMax.Manufactory.Recipe.BlueberryPie,Blueberry Pie
